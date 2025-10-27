@@ -1,1 +1,2 @@
-"Log initialized at $(date)" 
+"Repo oluüturuldu. Test iülemi." 
+"feat : pyt.py eklendi" 
