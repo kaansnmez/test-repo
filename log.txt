@@ -1,2 +1,3 @@
 "Repo oluŸturuldu. Test iŸlemi." 
 "feat : pyt.py eklendi" 
+"docs : readme.md updated " 
